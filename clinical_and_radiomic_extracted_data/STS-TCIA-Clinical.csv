@@ -1,0 +1,52 @@
+PatientID;Age;Sex;Histological type;MSKCC type;Site of primary STS;Grade;Time - diagnosis to MRI scan (days);Time - MRI scan to PET scan (days);Treatment;Outcome (recurrence, mets);Time - diagnosis to outcome (days);Status (NED, AWD, D);Time - diagnosis to last follow-up (days);LungMets
+STS_001;59;Male;pleiomorphic liposarcoma;Liposarcoma;left thigh;High;-7;4;Radiotherapy + Surgery + Chemotherapy;Mets – arms;266;D;845;0
+STS_002;61;Male;pleiomorphic leiomyosarcoma;Leiomyosarcoma;left buttock;High;-10;25;Radiotherapy + Surgery;--;--;NED;501;0
+STS_003;17;Female;epithelioid sarcoma;Other;right buttock;Intermediate;-13;15;Radiotherapy + Surgery;--;--;NED;756;0
+STS_004;22;Female;malignant fibrous histiocytoma;MFH;right thigh;Low;-6;22;Radiotherapy + Surgery;--;--;NED;1792;0
+STS_005;83;Female;pleiomorphic leiomyosarcoma;Leiomyosarcoma;left biceps;High;-24;34;Radiotherapy + Surgery;--;--;NED;647;0
+STS_006;64;Male;extraskeletal osteosarcoma;Extraskeletal bone sarcoma;right thigh;High;-5;16;Radiotherapy + Surgery + Chemotherapy;Mets – lungs;198;AWD;592;1
+STS_007;60;Female;spindle cell suggestive of myxofibrosarcoma;MFH;right buttock;Intermediate;30;-14;Radiotherapy + Surgery;Mets – bones;251;D;686;0
+STS_008;28;Female;malignant fibrous histiocytoma;MFH;left arm;Low;-75;28;Surgery + Chemotherapy;--;--;NED;1153;0
+STS_009;60;Male;myxofibrosarcoma - undifferentiated;MFH;right thigh;High;6;20;Radiotherapy + Surgery + Chemotherapy;Mets – lungs;101;D;257;1
+STS_010;60;Female;myxofibrosarcoma;MFH;left calf;High;-19;18;Radiotherapy + Surgery;--;--;NED;790;0
+STS_011;56;Female;malignant solitary fibrous tumor;Other;right thigh;Intermediate;3;33;Radiotherapy + Surgery;--;--;NED;637;0
+STS_012;62;Female;sclerosing epithelioid fibrosarcoma;Fibrosarcoma;right thigh;Intermediate;-14;40;Radiotherapy + Surgery;Mets – bones;235;D;663;0
+STS_013;82;Male;dedifferentiated liposarcoma;Liposarcoma;left thigh;High;-22;38;Radiotherapy + Surgery;--;--;NED;1643;0
+STS_014;56;Male;pleiomorphic leiomyosarcoma;Leiomyosarcoma;right thigh;Intermediate;-32;4;Radiotherapy + Surgery + Chemotherapy;Mets – lungs;157;D;934;1
+STS_015;34;Female;synovial sarcoma;Synovial sarcoma;right thigh;Intermediate;-13;23;Radiotherapy + Surgery;--;--;NED;651;0
+STS_016;75;Female;spindle cell suggestive of pleomorphic liposarcoma;Liposarcoma;left thigh;Intermediate;-33;7;Radiotherapy + Surgery;--;--;NED;760;0
+STS_017;54;Male;extraskeletal Ewing;Extraskeletal bone sarcoma;left thigh;High;-10;21;Surgery + Chemotherapy;Mets – lungs;525;D;790;1
+STS_018;68;Male;leiomyosarcoma;Leiomyosarcoma;left pelvis;Intermediate;3;24;Radiotherapy + Surgery + Chemotherapy;Mets – lungs;96;D;607;1
+STS_019;48;Female;undifferentiated - pleiomorphic;MFH;right hand;High;-28;32;Radiotherapy + Surgery;--;--;NED;1082;0
+STS_020;78;Female;pleomorphic sarcoma;MFH;left thigh;High;7;8;Radiotherapy + Surgery;Recurrence – regional;66;AWD;377;0
+STS_021;49;Male;undifferentiated - pleiomorphic;MFH;right thigh;High;-12;40;Radiotherapy + Surgery + Chemotherapy;Mets – lungs;731;AWD;779;1
+STS_022;65;Male;myxoid fibrosarcoma;MFH;left thigh;Intermediate;-13;38;Radiotherapy + Surgery + Chemotherapy;Mets – lungs;357;AWD;881;1
+STS_023;65;Male;myxofibrosarcoma;MFH;left thigh;Intermediate;-13;20;Radiotherapy + Surgery + Chemotherapy;Mets – lungs;98;D;287;1
+STS_024;48;Male;pleiomorphic leiomyosarcoma;Leiomyosarcoma;left thigh;High;-4;8;Radiotherapy + Surgery;--;--;NED;819;0
+STS_025;76;Male;malignant fibrous histiocytoma;MFH;right calf;High;-24;41;Radiotherapy + Surgery;--;--;NED;1494;0
+STS_026;51;Female;liposarcoma;Liposarcoma;left thigh;High;-10;14;Radiotherapy + Surgery + Chemotherapy;Mets – spine;1196;AWD;1991;0
+STS_027;62;Female;undifferentiated – high grade;MFH;left thigh;High;17;10;Radiotherapy + Surgery + Chemotherapy;Mets – lungs;132;AWD;626;1
+STS_028;70;Female;extraskeletal high grade osteogenic sarcoma;Extraskeletal bone sarcoma;left calf;High;-14;25;Radiotherapy + Surgery;Mets – lungs;389;D;622;1
+STS_029;47;Female;myxofibrosarcoma;MFH;left thigh;Intermediate;-4;28;Radiotherapy + Surgery;--;--;NED;574;0
+STS_030;51;Male;liposarcoma, well diferentiated;Liposarcoma;right quadricep;Low;-12;26;Radiotherapy + Surgery;--;--;NED;903;0
+STS_031;70;Female;synovial sarcoma;Synovial sarcoma;right buttock;Intermediate;10;19;Surgery + Chemotherapy;Mets – lungs;94;D;804;1
+STS_032;69;Male;pleiomorphic liposarcoma;Liposarcoma;right calf;High;11;4;Radiotherapy + Surgery;Mets – lungs;77;D;262;1
+STS_033;74;Female;pleomorphic leiomyosarcoma;Leiomyosarcoma;left thigh;High;10;-7;Radiotherapy + Surgery;Mets – lungs;167;AWD;415;1
+STS_034;43;Male;poorly differentiated synovial sarcoma;Synovial sarcoma;right buttock;High;-5;29;Surgery + Chemotherapy;Recurrence – local;76;D;838;0
+STS_035;65;Female;undifferentiated – high grade;MFH;right thigh;High;-34;62;Radiotherapy + Surgery;--;--;NED;693;0
+STS_036;24;Female;leiomyosarcoma;Leiomyosarcoma;right groin;High;22;11;Radiotherapy + Surgery + Chemotherapy;--;--;NED;1329;0
+STS_037;61;Male;pleiomorphic spindle cell undifferentiated;MFH;right parascapusular;High;-6;13;Radiotherapy + Surgery + Chemotherapy;Mets – lungs;98;D;407;1
+STS_038;63;Male;pleiomorphic liposarcoma;Liposarcoma;left thigh;High;-20;36;Radiotherapy + Surgery;Mets – lungs;483;NED;707;1
+STS_039;44;Male;undifferentiated pleomorphic liposarcoma;MFH;left thigh;High;-19;27;Radiotherapy + Surgery + Chemotherapy;Mets – lungs;189;AWD;567;1
+STS_040;57;Female;epithelioid sarcoma with vascular differentiation;Other;right buttock;N/A;-16;6;Radiotherapy + Surgery + Chemotherapy;Mets – lungs;73;D;131;1
+STS_041;78;Female;leiomyosarcoma;Leiomyosarcoma;parascapusular;Intermediate;19;-6;Radiotherapy + Surgery;--;--;NED;458;0
+STS_042;16;Female;spindle cell suggestive of biphasic synovial sarcoma;Synovial sarcoma;left knee;Intermediate;-12;18;Radiotherapy + Surgery;--;--;NED;706;0
+STS_043;29;Male;mixoid liposarcoma;Liposarcoma;left thigh;Low;-6;14;Radiotherapy + Surgery;--;--;NED;1313;0
+STS_044;46;Male;mixoid liposarcoma;Liposarcoma;right thigh;Low;-12;28;Radiotherapy + Surgery;--;--;NED;1358;0
+STS_045;27;Male;extraskeletal osteosarcoma;Extraskeletal bone sarcoma;left adductur;High;-19;29;Surgery + Chemotherapy;--;--;NED;1157;0
+STS_046;57;Female;pleiomorphic undifferentiated sarcoma;MFH;right quadricep;High;-7;14;Surgery + Chemotherapy;Mets – lungs;329;D;892;1
+STS_047;62;Female;liposarcoma;Liposarcoma;right thigh;N/A;-19;20;Radiotherapy + Surgery;--;--;NED;2121;0
+STS_048;42;Female;pleiomorphic leiomyosarcoma;Leiomyosarcoma;left thigh;Intermediate;0;11;Radiotherapy + Surgery;--;--;NED;465;0
+STS_049;34;Male;liposarcoma - round cell;Liposarcoma;right calf;High;19;1;Surgery + Chemotherapy;Mets – abdomen;404;AWD;868;0
+STS_050;70;Female;pleiomorphic leiomyosarcoma;Leiomyosarcoma;left thigh;High;-6;25;Radiotherapy + Surgery;Mets – lungs;418;NED;831;1
+STS_051;54;Male;synovial sarcoma;Synovial sarcoma;left poplietal fossa;N/A;4;13;Radiotherapy + Surgery;Recurrence – regional;507;NED;1836;0
